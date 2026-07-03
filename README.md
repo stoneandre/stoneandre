@@ -1,4 +1,4 @@
-<h1 align="center">Привіт, я Адрій</h1>
+<h1 align="center">Привіт, я Андрій</h1>
 <h3 align="center">Декілька років вивчаю створення вебсайтів</h3>
 
 - 🔭 Працюю над власним портфоліо: [Робота триває](https://github.com/stoneandre/single-page-developer-portfolio)
